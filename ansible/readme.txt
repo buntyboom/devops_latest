@@ -1,6 +1,6 @@
 Things to know before working with ansible
 	
-	1) ansible is agentless ( means, we do not need to run any agent on remote servers for communication )
+	1 ) Ansible is agentless ( means, we do not need to run any agent on remote servers for communication )
 	
 	2) ansible follows push model ( means we push the configuration from ansible controller to remote servers )
 	
